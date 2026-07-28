@@ -1,0 +1,28 @@
+[submodule "Laboratorios/Formas-Geometricas-y-Torre-de-Hanoi-POOB"]
+	path = Laboratorios/Formas-Geometricas-y-Torre-de-Hanoi-POOB
+	url = https://github.com/JuanGuayazanC/Formas-Geometricas-y-Torre-de-Hanoi-POOB.git
+	branch = main
+[submodule "Laboratorios/Automata-Celular-Herencia-e-Interfaces-POOB"]
+	path = Laboratorios/Automata-Celular-Herencia-e-Interfaces-POOB
+	url = https://github.com/JuanGuayazanC/Automata-Celular-Herencia-e-Interfaces-POOB.git
+	branch = main
+[submodule "Laboratorios/Excepciones-Tienda-de-Disfraces-POOB"]
+	path = Laboratorios/Excepciones-Tienda-de-Disfraces-POOB
+	url = https://github.com/JuanGuayazanC/Excepciones-Tienda-de-Disfraces-POOB.git
+	branch = main
+[submodule "Laboratorios/Interfaz-Grafica-Clustering-POOB"]
+	path = Laboratorios/Interfaz-Grafica-Clustering-POOB
+	url = https://github.com/JuanGuayazanC/Interfaz-Grafica-Clustering-POOB.git
+	branch = main
+[submodule "Laboratorios/Persistencia-Replicate-POOB"]
+	path = Laboratorios/Persistencia-Replicate-POOB
+	url = https://github.com/JuanGuayazanC/Persistencia-Replicate-POOB.git
+	branch = main
+[submodule "Proyectos/TILTING-TILES-POOB"]
+	path = Proyectos/TILTING-TILES-POOB
+	url = https://github.com/JuanGuayazanC/TILTING-TILES-POOB.git
+	branch = main
+[submodule "Proyectos/POOBvsZOMBIES-POOB"]
+	path = Proyectos/POOBvsZOMBIES-POOB
+	url = https://github.com/JuanGuayazanC/POOBvsZOMBIES-POOB.git
+	branch = main
