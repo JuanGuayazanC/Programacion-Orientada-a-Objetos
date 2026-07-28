@@ -26,3 +26,7 @@
 	path = Proyectos/POOBvsZOMBIES-POOB
 	url = https://github.com/JuanGuayazanC/POOBvsZOMBIES-POOB.git
 	branch = main
+[submodule "Laboratorios/Calculadora-Relacional-Diseno-y-Pruebas-POOB"]
+	path = Laboratorios/Calculadora-Relacional-Diseno-y-Pruebas-POOB
+	url = https://github.com/JuanGuayazanC/Calculadora-Relacional-Diseno-y-Pruebas-POOB.git
+	branch = main

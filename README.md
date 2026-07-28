@@ -10,6 +10,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 Programaci-n-Orientada-a-Objetos/
 ├── Laboratorios/
 │   ├── Formas-Geometricas-y-Torre-de-Hanoi-POOB/
+│   ├── Calculadora-Relacional-Diseno-y-Pruebas-POOB/
 │   ├── Automata-Celular-Herencia-e-Interfaces-POOB/
 │   ├── Excepciones-Tienda-de-Disfraces-POOB/
 │   ├── Interfaz-Grafica-Clustering-POOB/
@@ -38,6 +39,7 @@ El curso recorre el ciclo completo de diseño y construcción de software orient
 
 - Los laboratorios se desarrollan sobre proyectos BlueJ, con arquitectura por capas (`domain`/`presentation`) y pruebas unitarias en JUnit.
 - Cada laboratorio retoma y extiende el proyecto del laboratorio anterior del mismo tercio (por ejemplo, `Automata-Celular-Herencia-e-Interfaces-POOB` y `Persistencia-Replicate-POOB` parten ambos del proyecto `replicate`).
+- `Calculadora-Relacional-Diseno-y-Pruebas-POOB` (laboratorio 2, primer tercio) documenta el enunciado real del laboratorio, pero el código nunca llegó a subirse a GitHub en su momento — el repositorio conserva ese estado real en vez de fabricar una implementación.
 - `TILTING-TILES-POOB` y `POOBvsZOMBIES-POOB` son proyectos desarrollados en equipo (2-3 integrantes) como entregas finales del curso.
 
 ## Herramientas
