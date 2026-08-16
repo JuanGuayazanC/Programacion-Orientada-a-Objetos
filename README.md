@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Programaci-n-Orientada-a-Objetos/
+Programacion-Orientada-a-Objetos/
 ├── Laboratorios/
 │   ├── Formas-Geometricas-y-Torre-de-Hanoi-POOB/
 │   ├── Calculadora-Relacional-Diseno-y-Pruebas-POOB/
@@ -51,7 +51,7 @@ El curso recorre el ciclo completo de diseño y construcción de software orient
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Programaci-n-Orientada-a-Objetos.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Programacion-Orientada-a-Objetos.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
