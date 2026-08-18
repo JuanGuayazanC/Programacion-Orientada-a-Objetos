@@ -48,6 +48,10 @@ El curso recorre el ciclo completo de diseño y construcción de software orient
 - JUnit
 - Swing / AWT
 
+## Profesores
+
+Santiago Rocha Durán (teoría) y María Irma Díaz Rozo (laboratorio).
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios y proyectos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
