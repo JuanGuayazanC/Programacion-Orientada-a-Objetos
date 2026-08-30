@@ -1,6 +1,8 @@
 # Programación Orientada a Objetos (POOB)
 
-Repositorio general del curso. Para saber cómo aprovecharlo, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
+Repositorio general del curso Programación Orientada a Objetos, que agrupa —mediante submódulos de git— los laboratorios individuales del curso y los proyectos desarrollados en equipo.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
